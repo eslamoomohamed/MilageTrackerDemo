@@ -1,0 +1,6 @@
+framework module Pods_MilageTrackerDemo_MilageTrackerDemoUITests {
+  umbrella header "Pods-MilageTrackerDemo-MilageTrackerDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
